@@ -2,7 +2,7 @@ gulp-web-modules plugin used to scan for all jsx files and compile them
 
 Usage
 -----
-Place any jsx files within any section directories and they will be converted to javascipt using gulp-react before the merge
+Place any jsx files within any section directories and they will be converted to javascipt using [gulp-react](https://github.com/sindresorhus/gulp-react) before the merge
 
 Install
 ------
