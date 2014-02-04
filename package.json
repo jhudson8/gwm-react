@@ -1,0 +1,22 @@
+{
+  "name": "gwm-react",
+  "version": "0.1.0",
+  "author": "Joe Hudson <joehud@gmail.com>",
+  "description": "gulp-web-modules plugin used to compile all jsx into javascript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhudson8/gwm-react.git"
+  },
+  "keywords": [
+    "gulp-web-modules",
+    "gulpWebModules",
+    "reactjs"
+  ],
+  "licenses": {
+    "type": "MIT",
+    "url": "https://github.com/jhudson8/gwm-react/raw/master/LICENSE"
+  },
+  "dependencies": {
+    "gulp-react": "~0.1"
+  }
+}
