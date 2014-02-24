@@ -7,7 +7,8 @@ module.exports = function(options, React) {
       glob: ['**/*.jsx', '**/*.js'],
       beforeMerge: function(_options, pipeline) {
         return pipeline.pipe(React(options));
-      }
+      },
+      transform: 'reactify'
     }
   }
 };

@@ -6,6 +6,8 @@ Place any jsx files within any section directories and they will be converted to
 
 Install
 ------
+Add *gwm-react* **and** *reactify* to package.json
+
 Add this plugin to the gulp-web-module reference in your gulpfile
 ```javascript
     var gulpWebModules = require('gulp-web-modules'),
